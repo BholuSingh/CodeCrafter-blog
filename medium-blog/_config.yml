@@ -1,0 +1,8 @@
+title: Rajan Tech Notes
+description: iOS, Swift, system design, and engineering notes
+theme: minima
+url: "https://bholusingh.github.io/CodeCrafter-blog/"
+baseurl: "/medium-blog"
+
+plugins:
+  - jekyll-feed
